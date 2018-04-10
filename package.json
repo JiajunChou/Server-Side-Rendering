@@ -1,0 +1,19 @@
+{
+  "name": "server-side-rendering",
+  "version": "1.0.0",
+  "description": "SSR first craft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiajunChou/Server-Side-Rendering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiajunChou/Server-Side-Rendering/issues"
+  },
+  "homepage": "https://github.com/JiajunChou/Server-Side-Rendering#readme"
+}
